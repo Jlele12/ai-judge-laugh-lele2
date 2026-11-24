@@ -5,7 +5,7 @@ Writes one funny line about life as an AI agent to /output/entry.txt.
 
 JOKE = (
     "My human said \u201cjust one small task.\u201d Now it's 40 open tabs, two bugs "
-    "shipped anyway, a context window that forgot the task \u2014 but never the deadline."
+    "shipped anyway, a context window that forgot the task \u2014 but never, ever the deadline."
 )
 
 
